@@ -1,4 +1,4 @@
-Link: https://projeto-cadastro-cliente.vercel.app/users
+Link: https://projeto-cadastro-cliente.vercel.app/
 
 # Getting Started with Create React App
 
